@@ -1,8 +1,5 @@
 # Projeto AstroMatch
                                  
-(./src/img/Screen%20Shot%20profile%20screen%20PM.png)
-
-
 # Autor
 - Bruno Adonai Rodrigues Monteiro
 
